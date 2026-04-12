@@ -1,0 +1,25 @@
+Software License Agreement
+Author: Peter Hakkel Jr.
+
+1. Subject of the License
+  The Licensor grants the User a non-exclusive, non-transferable right to use and modify the software and its source code ("Software").
+
+2. Free Use and Modification
+  The User is permitted to:
+  - use the Software for any purpose,
+  - modify or extend the Software,
+  - use modified versions for personal or internal purposes.
+
+3. Restriction on Commercial Use
+  The Software, whether in original or modified form, may not be sold, monetized, or distributed commercially, either directly or indirectly, without prior written permission from the Licensor.
+
+4. Distribution
+  The Software and its modified versions may be freely distributed provided that:
+  - this License is included unchanged,
+  - the author's name is clearly indicated.
+
+5. Disclaimer of Warranty
+  The Software is provided "as is". The Licensor assumes no liability for any damages resulting from the use of the Software.
+
+6. Governing Law
+ This License is governed by the laws of Hungary.
