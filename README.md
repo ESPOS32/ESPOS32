@@ -22,6 +22,7 @@ Lightweight, modular framework for ESP32 and ESP8266 focused on web-based contro
 - Delete files
 - Create folder
 - Download files
+- DoubleClick open
 - Folder ⇄ `.tar` archive support
 - Full filesystem backup / restore (`fullFS.tar`)
 
