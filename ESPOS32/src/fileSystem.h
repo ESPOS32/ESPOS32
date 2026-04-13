@@ -395,6 +395,7 @@ inline String fmtSize() {
 }
 
 inline void onFormatRequired() {
+    LittleFS.begin();
     DEBUG("|   !!! Force format !!!");
     if (LittleFS.format()) {
       afterFormat(false);
