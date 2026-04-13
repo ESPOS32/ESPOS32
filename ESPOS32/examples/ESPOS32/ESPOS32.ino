@@ -3,6 +3,7 @@
   https://github.com/ESP32Async
    AsyncTCP (ESP32) / ESPAsyncTCP (ESP8266)
    ESPAsyncWebServer (WebResponseImpl.h first line: #define TEMPLATE_PLACEHOLDER '~' !!!
+ ESP8266: Tools / NONOS SDK version: 3.0.5 !!! 
  */
 
  // First boot: AP captive portal, IP:192.168.4.1
